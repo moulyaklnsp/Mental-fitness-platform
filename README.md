@@ -37,9 +37,13 @@ How to Use Eternal:
 Eternal is easily accessible via any standard web browser. Simply visit our website and explore our range of services – no extra software or downloads required.
 
 Team Contributions:
+
 Sai Vivash Dara (Team Lead): Spearheaded website development and conceptualized the platform’s theme.
+
 Aniketh Shrivastav: Designed the website and conducted extensive testing.
+
 Moulya P: Managed information gathering, evaluated the theme, and analyzed code for consistency.
+
 Varsha Priya G: Created the presentation and contributed to data collection for the platform.
 
 Uniqueness of Eternal:
